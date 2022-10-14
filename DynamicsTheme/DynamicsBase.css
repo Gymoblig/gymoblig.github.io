@@ -1,7 +1,7 @@
 
  .titleBar-1it3bQ::after {
    content: "GreenyCord";
-   color: grey;
+   color: rgba(207, 207, 207, 0);
    position: absolute;
    font-weight: 600 !important;
    left: 0.5%;
