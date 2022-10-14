@@ -1,9 +1,9 @@
 
  .titleBar-1it3bQ::after {
-   content: "DISCORD";
+   content: "GreenyCord";
    color: grey;
    position: absolute;
-   font-weight: 800 !important;
+   font-weight: 600 !important;
    left: 0.5%;
    height: 3px;
    top: 3px;
