@@ -280,7 +280,11 @@
   background-color: var(--background-secondary-alt) !important;
   filter:saturate(200%);
 }
- 
+.colorRed-rQXKgM{
+  background-color:var(--background-secondary-alt) !important;
+  filter:saturate(150%);
+  border-color:var(--background-secondary-alt) !important;
+ }
  
  
  
