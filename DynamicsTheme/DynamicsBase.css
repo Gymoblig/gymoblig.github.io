@@ -276,7 +276,10 @@
    border-bottom-left-radius: 15px;
    border-bottom-right-radius: 15px;
  }
- 
+ .scroller-2MALzE.list-obNEuP.none-2-_0dP{
+  background-color: var(--background-secondary-alt) !important;
+  filter:saturate(200%);
+}
  
  
  
