@@ -280,8 +280,12 @@
   background-color: var(--background-secondary-alt) !important;
   filter:saturate(200%);
 }
-.attachButton-1ijpt9:hover path:not(:last-child){
-    fill: var(--background-third);
+ .attachButtonPlus-3IYelE{
+  fill: var(--background-secondary-alt);
+}
+
+.attachButton-1ijpt9:hover path:not(path+path, #a#B){
+  fill: var(--background-third);
 }
  
  /* BD SETTINGS */
