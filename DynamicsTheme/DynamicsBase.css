@@ -287,6 +287,9 @@
 .attachButton-1ijpt9:hover path:not(path+path, #a#B){
   fill: var(--background-third);
 }
+.premiumTier0Badge-1-GBZW{
+    display: none;
+}
  
  /* BD SETTINGS */
  .bd-button.bd-button-title{
