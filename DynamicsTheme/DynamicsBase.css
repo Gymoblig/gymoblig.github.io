@@ -290,7 +290,20 @@
 .premiumTier0Badge-1-GBZW{
     display: none;
 }
+.numberBadge-37OJ3S.base-3IDx3L.baseShapeRound-3epLEv{
+  background-color: var(--text-muted)!important ;
+  border-radius: 15px;
+}
+.controlButton-2PMNom.centerButton-1IShs7.colorable-3rVGna.red-3T8maV.button-f2h6uQ.lookBlank-21BCro.colorBrand-I6CyqQ.grow-2sR_-F{
+  background-color: var(--background-third) !important;
+  
+}
  
+
+
+
+
+
  /* BD SETTINGS */
  .bd-button.bd-button-title{
    background-color: var(--background-third);
