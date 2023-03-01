@@ -10,7 +10,10 @@
    top: 3px;
    
  }
- 
+  .buttons-uaqb-5 > .button-ejjZWC,
+ .stickerButton-1-nFh2 {
+     display:none;
+ }
  .none-2-_0dP.scrollerBase-_bVAAt{
   background-color: var(--background-tertiary) !important;
 }
